@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Here's my [portfolio](https://devendhraaportfolio.netlify.app/)
+- 🔭 Here's my [portfolio](https://devendhra.me/)
 - 🌱 I’m currently learning DSA and Gen AI.
 - 📫 How to reach me **devendhraalathur@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wrXQk7PmKoo6Zo01kWN5XFSM_aFrIW76/view?usp=sharing](https://drive.google.com/file/d/1wrXQk7PmKoo6Zo01kWN5XFSM_aFrIW76/view?usp=sharing)
